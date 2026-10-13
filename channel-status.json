@@ -1,0 +1,8 @@
+{
+  "schema": "trinity.release.channel.status.v1",
+  "status": "HOLD_NO_TRUST_KEY_NO_SIGNED_RELEASE",
+  "release_available": false,
+  "project": "TRINITY-Mobile",
+  "distribution_scope": "signed-ui-only",
+  "notice": "Status only. Not an update manifest. Do not install."
+}
